@@ -1,13 +1,14 @@
-##Introducción##
+##Introducción
+
 El té es una infusión obtenida de las hojas y brotes de la planta del té (Camellia Sinensis).
 La popularidad de esta bebida es solamente sobrepasada por el agua. Su sabor es fresco, ligeramente amargo y astringente; es por ello que esta bebida es del agrado de muchas personas.
 Adicionalmente se argumenta que el consumo de té es beneficioso para la salud ya que contiene una gran cantidad de propiedades como los antioxidantes, flavanoles, flavonoides, catequinos y polifenoles que ayudan a nuestro organismo.
 
-##El Reto##
+##El Reto
 Para realizar este proyecto se nos dieron las siguientes directrices:
-![Reto 5 Integrarse con un BackEnd](https://ibb.co/n1es4c)
+![Reto 5 Integrarse con un BackEnd](https://image.ibb.co/mOof7x/39b12563_49ce_4985_bfcb_502210842aa3.jpg)
 
-##Investigación de Necesidades y Desarrollo de Producto.##
+##Investigación de Necesidades y Desarrollo de Producto.
 
 
 Un estudio realizado por Euromonitor Internacional, indica que en Chile se consumen 427 tazas de Té por persona para el año 2016, esta cifra aumentaría , según las estimaciones , a 439 tazas por personas para el 2017, totalizando el consumo en 87,2 litros per cápita.
