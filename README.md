@@ -6,7 +6,7 @@ Adicionalmente se argumenta que el consumo de té es beneficioso para la salud y
 
 ##El Reto
 Para realizar este proyecto se nos dieron las siguientes directrices:
-![Reto 5 Integrarse con un BackEnd](https://image.ibb.co/mOof7x/39b12563_49ce_4985_bfcb_502210842aa3.jpg)
+![Reto 5 Integrarse con un BackEnd](https://image.ibb.co/hGCq7x/Captura_de_pantalla_2018_03_22_a_la_s_11_11_30_p_m.png)
 
 ##Investigación de Necesidades y Desarrollo de Producto.
 
@@ -32,10 +32,8 @@ La aplicación diseñada, podrá ser utilizada en smartphone con sistema operati
 ##Análisis de la información obtenida##
 
 Se realizó un análisis de la información suministrada, obteniendo  el siguiente mapa de información:
-![Mapa de Información](https://ibb.co/k4ywVH)
-![Mapa de Información Usuario](https://ibb.co/nkFocx)
-![Mapa de Información Administrador](https://ibb.co/k4BuHx)
-![Mapa de Información Productos](https://ibb.co/jg6iAH)
+![Mapa de Información](https://image.ibb.co/cyvcnx/Captura_de_pantalla_2018_03_23_a_la_s_1_29_10_a_m.png)
+
 
 ##Métodos Utilizados ##
 
@@ -53,13 +51,15 @@ En primera instancia, se realizaron pequeñas entrevistas aproximadamente a 4 pe
 **Scketch**
 
 *Administrador*
-![Scketch](https://ibb.co/ckeBVH)
+![Scketch](https://image.ibb.co/eXmYSx/Captura_de_pantalla_2018_03_23_a_la_s_1_08_04_a_m.png)
 
 **Prototipo**
 
 *Usuario Administrador*
-![Prototipo Administrador](https://ibb.co/gweOcx)
-![Prototipo Usuario](https://ibb.co/iQjH4c)
+![Prototipo Administrador](https://image.ibb.co/kY77nx/Captura_de_pantalla_2018_03_23_a_la_s_1_08_14_a_m.png)
+
+*Usuario*
+![Prototipo Usuario](https://image.ibb.co/huHU0H/Captura_de_pantalla_2018_03_23_a_la_s_1_08_20_a_m.png)
 
 
 
